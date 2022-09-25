@@ -16,3 +16,5 @@
 |     Day3      |             Throw             |             [Problem](https://www.hackerrank.com/challenges/js10-throw/problem)             |    Easy    |  15   |         [Solution](Day3/10-Throw.js)               |
 |     Day3      |             Try, Catch, and Finally             |             [Problem](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem)             |    Easy    |  15   |      [Solution](Day3/11-Try,%20Catch,%20and%20Finally.js)                 |
 |     Day4      |             Create a Rectangle Object             |             [Problem](https://www.hackerrank.com/challenges/js10-objects/problem)             |    Easy    |  15   |       [Solution](Day4/12-Create%20a%20Rectangle%20Object.js)                 |
+|     Day4      |             Count Objects             |             [Problem](https://www.hackerrank.com/challenges/js10-count-objects/problem)             |    Easy    |  15   |                        |
+|     Day4      |             Classes             |             [Problem](https://www.hackerrank.com/challenges/js10-class/problem)             |    Easy    |  15   |                        |
